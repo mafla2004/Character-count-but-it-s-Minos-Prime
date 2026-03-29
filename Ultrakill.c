@@ -9,7 +9,7 @@
 #define MAN ]
 #define CREATURE_OF_STEEL char
 #define FOR THEE = 0; while
-#define FREEDOM !=
+#define FREEDOM = getchar() !=
 #define BUT EOF
 #define GRATITUDE_UPON unsigned int
 #define CRIMES &
